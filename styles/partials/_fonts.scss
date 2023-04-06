@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Eunoia";
+    src: 
+         url('../fonts/eunoia-free.ttf') format('truetype')
+  }
+@font-face {
+    font-family: "DMSans Bold";
+    src: 
+         url('../fonts/DMSans/DMSans-Bold.ttf') format('truetype')
+  }
+
+@font-face {
+font-family: "DMSans Regular";
+src: 
+        url('../fonts/DMSans/DMSans-Regular.ttf') format('truetype')
+    
+}
+
+@font-face {
+font-family: "DMSans Medium";
+src: 
+        url('../fonts/DMSans/DMSans-Medium.ttf') format('truetype')
+    
+}
+
+@font-face {
+font-family: "DMsans Bold Italic";
+src: 
+        url('../fonts/DMSans/DMSans-BoldItalic.ttf') format('truetype')
+    
+}
+@font-face {
+font-family: "DMsans Italic";
+src: 
+        url('../fonts/DMSans/DMSans-Italic.ttf') format('truetype')
+    
+}
+@font-face {
+font-family: "DMsans Medium Italic";
+src: 
+        url('../fonts/DMSans/DMSans-MediumItalic.ttf') format('truetype')
+    
+}
+
+ /* font family*/
+ $brand-secondary-font-regular: "eunoia";
+ $brand-primary-font-regular: "DMSans Regular";
+ $brand-primary-font-bold: "DMSans Bold";
+ $brand-primary-font-medium: "DMSans Medium";
+ $brand-primary-font-boldItalic: "DMSans BoldItalic";
+ $brand-primary-font-italic: "DMSans Italic";
+ $brand-primary-font-mediumItalic: "DMSans mediumItalic";
+ /* $brand-secondary-font:'Quicksand', sans-serif; */
+ /* font sizes*/
+ /* headings */
+
+
+
+ $brand-heading-lg: 60px;  /* h1*/
+ $brand-heading-md: 32px; /* h2 */
+ $brand-heading-sm: 24px; /* h3 */
+ $brand-heading-xs: 20px; /* h4 */
+
+ $brand-heading-title:  26px;
